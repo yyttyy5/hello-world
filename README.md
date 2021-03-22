@@ -1,2 +1,3 @@
 # hello-world
-Rep for practic
+
+MAZA FUKA
